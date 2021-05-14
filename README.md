@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## La comunidad del Cambio
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
